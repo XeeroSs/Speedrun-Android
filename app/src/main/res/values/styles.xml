@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorDarkAqua</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAqua</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="button_custom" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">@color/colorAqua</item>
+        <item name="colorButtonNormal">@color/colorDarkAqua</item>
+    </style>
+
+</resources>
